@@ -19,4 +19,4 @@ it sends messages in a group or a chanel of a group
     ```
 
 ## Basic Commands
-- `!ping`: Replies with "Pong!"
+- `/post_message`: Admins use this to post messages as the bot"

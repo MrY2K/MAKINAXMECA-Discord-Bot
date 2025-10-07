@@ -1,5 +1,3 @@
-
-
 # sudo dnf install python3-devel portaudio-devel
 
 python -m venv bot-env
